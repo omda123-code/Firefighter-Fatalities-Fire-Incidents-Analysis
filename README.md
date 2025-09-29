@@ -67,7 +67,7 @@ All queries are prepared in `sql_queries/queries.sql`.
 
 ### 3. Power BI Dashboard
 
-**A 5-page dashboard designed for insights:**
+**A 6-page dashboard designed for insights:**
 
 - Incidents Overview: yearly trends, top wards, top origins.
 - Response Performance: response & control times, casualties.
