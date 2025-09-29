@@ -16,6 +16,7 @@ The main goal is to uncover insights into **incident patterns, casualties, respo
 
 ## 📂 Repository Structure
 
+```
 fire-incidents-analysis/
 ├── data/ # Input datasets (CSV/Excel/SQL extracts)
 ├── sql_queries/ # 20+ SQL queries for data exploration
@@ -37,7 +38,7 @@ fire-incidents-analysis/
 ├── powerbi_dashboard/
 │ └── Fire_Incidents_Dashboard.pbix
 └── README.md
-
+```
 ---
 
 ## ⚙️ Project Workflow
