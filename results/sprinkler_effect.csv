@@ -1,0 +1,29 @@
+Sprinkler_System_Presence,Sprinkler_System_Operation,Incidents,Total_Civilian_Casualties,Avg_Loss
+1 - Full sprinkler system present,1 - Sprinkler system activated,569,16,32985.884007029876
+1 - Full sprinkler system present,2 - Did not activate: remote from fire,403,26,11871.776674937966
+1 - Full sprinkler system present,3 - Did not activate: fire too small to trigger system,364,30,4357.3489010989015
+1 - Full sprinkler system present,4 - Other reason for non activation/operation,31,3,15645.516129032258
+1 - Full sprinkler system present,5 - Did not activate: reason unknown,17,0,366335.29411764705
+1 - Full sprinkler system present,8 - Not applicable - no sprinkler system present,8,0,50587.5
+1 - Full sprinkler system present,9 - Activation/operation undetermined,15,1,3866.6666666666665
+2 - Partial sprinkler system present,1 - Sprinkler system activated,133,1,24633.766917293233
+2 - Partial sprinkler system present,2 - Did not activate: remote from fire,616,95,21491.108766233767
+2 - Partial sprinkler system present,3 - Did not activate: fire too small to trigger system,99,5,2798.3232323232323
+2 - Partial sprinkler system present,4 - Other reason for non activation/operation,20,0,31590.0
+2 - Partial sprinkler system present,5 - Did not activate: reason unknown,16,0,16568.75
+2 - Partial sprinkler system present,8 - Not applicable - no sprinkler system present,18,2,2034.4444444444443
+2 - Partial sprinkler system present,9 - Activation/operation undetermined,12,2,168608.41666666666
+3 - No sprinkler system,1 - Sprinkler system activated,2,0,2550.0
+3 - No sprinkler system,2 - Did not activate: remote from fire,50,3,16506.62
+3 - No sprinkler system,3 - Did not activate: fire too small to trigger system,9,0,489.55555555555554
+3 - No sprinkler system,4 - Other reason for non activation/operation,11,1,4036.3636363636365
+3 - No sprinkler system,5 - Did not activate: reason unknown,11,2,15706.363636363636
+3 - No sprinkler system,8 - Not applicable - no sprinkler system present,5326,691,42582.54055576418
+3 - No sprinkler system,9 - Activation/operation undetermined,19,1,41058.47368421053
+9 - Undetermined,1 - Sprinkler system activated,5,0,6201.0
+9 - Undetermined,2 - Did not activate: remote from fire,254,31,11322.897637795275
+9 - Undetermined,3 - Did not activate: fire too small to trigger system,132,7,1483.1666666666667
+9 - Undetermined,4 - Other reason for non activation/operation,31,2,18981.290322580644
+9 - Undetermined,5 - Did not activate: reason unknown,51,10,177152.1568627451
+9 - Undetermined,8 - Not applicable - no sprinkler system present,337,24,17779.05341246291
+9 - Undetermined,9 - Activation/operation undetermined,644,55,61966.82919254658

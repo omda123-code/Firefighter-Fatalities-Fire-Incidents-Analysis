@@ -1,0 +1,8 @@
+Sprinkler_System_Operation,Avg_Estimated_Loss
+1 - Sprinkler system activated,31144.377997179126
+2 - Did not activate: remote from fire,16420.40513983371
+3 - Did not activate: fire too small to trigger system,3416.048013245033
+4 - Other reason for non activation/operation,18813.236559139787
+5 - Did not activate: reason unknown,165266.63157894736
+8 - Not applicable - no sprinkler system present,40996.21585515908
+9 - Activation/operation undetermined,61982.68115942029
