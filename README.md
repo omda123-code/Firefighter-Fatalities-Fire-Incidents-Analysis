@@ -17,26 +17,26 @@ The main goal is to uncover insights into **incident patterns, casualties, respo
 ## 📂 Repository Structure
 
 fire-incidents-analysis/
-│── data/ # Input datasets (CSV/Excel/SQL extracts)
-│── sql_queries/ # 20+ SQL queries for data exploration
+├── data/ # Input datasets (CSV/Excel/SQL extracts)
+├── sql_queries/ # 20+ SQL queries for data exploration
 │ └── queries.sql
-│── python/
+├── python/
 │ └── analysis.ipynb # Jupyter Notebook for analysis
-│── results/ # Exported CSV from Python
+├── results/ # Exported CSV from Python
 │ ├── casualty_rate_by_property.csv
 │ ├── rescue_vs_resources.csv
 │ ├── smoke_alarm_impact.csv
-| |── percent_smoke_alarm_present.csv
+│ ├── percent_smoke_alarm_present.csv
 │ └── ...
-│── plots/ # Exported charts from Python
+├── plots/ # Exported charts from Python
 │ ├── avg_loss_by_type.png
 │ ├── casualties_by_property.png
 │ ├── incidents_by_hour.png
 │ ├── correlation_loss_time.png
 │ └── ...
-│── powerbi_dashboard/
+├── powerbi_dashboard/
 │ └── Fire_Incidents_Dashboard.pbix
-│── README.md
+└── README.md
 
 ---
 
