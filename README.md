@@ -66,30 +66,34 @@ All queries are prepared in `sql_queries/queries.sql`.
 - Plots automatically saved in `plots/`  
 
 ### 3. Power BI Dashboard
+
 **A 5-page dashboard designed for insights:**
--Incidents Overview: yearly trends, top wards, top origins
--Response Performance: response & control times, casualties
--Fire Protection Systems: alarms, sprinklers, losses
--Causes & Impact: ignition sources, incident types
--Human & Community Impact: rescues, displaced, casualty rates
--Time Analysis: peak hours, hourly distribution
+
+- Incidents Overview: yearly trends, top wards, top origins.
+- Response Performance: response & control times, casualties.
+- Fire Protection Systems: alarms, sprinklers, losses.
+- Causes & Impact: ignition sources, incident types.
+- Human & Community Impact: rescues, displaced, casualty rates.
+- Time Analysis: peak hours, hourly distribution.
 
 ---
 
 ### 📊 Key Insights
--Explosions show the highest average estimated loss (~$58K).
--Casualty rate is significantly higher in properties like detention centers and post-secondary schools.
--Smoke alarms are present in only ~48% of cases.
--Sprinklers reduce average loss, but many incidents occur without them.
--Peak incidents occur during evening hours (18:00–19:00).
--Incident counts dropped sharply in 2017 compared to earlier years.
+
+- Explosions show the highest average estimated loss (~$58K).
+- Casualty rate is significantly higher in properties like detention centers and post-secondary schools.
+- Smoke alarms are present in only ~48% of cases.
+- Sprinklers reduce average loss, but many incidents occur without them.
+- Peak incidents occur during evening hours (18:00–19:00).
+- Incident counts dropped sharply in 2017 compared to earlier years.
 
 
 ### 📌 Recommendations
--Strengthen fire protection systems (alarms & sprinklers).
--Prioritize resources for high-risk property types.
--Improve response strategies to reduce control time.
--Increase community awareness on prevention.
+
+- Strengthen fire protection systems (alarms & sprinklers).
+- Prioritize resources for high-risk property types.
+- Improve response strategies to reduce control time.
+- Increase community awareness on prevention.
 
 📸 Plots
 Python Visualizations:
